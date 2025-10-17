@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+pypdf
+langchain-chroma
+beautifulsoup4
+langgraph
+fastapi
+langserve
+sse_starlette
+streamlit
+faiss-cpu

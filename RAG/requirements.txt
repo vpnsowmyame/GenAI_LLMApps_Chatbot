@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-community
+pypdf
+wikipedia
+langchain-chroma
+faiss-cpu
+bs4
+unstructured

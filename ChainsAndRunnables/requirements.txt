@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+python-dotenv
+faiss-cpu
+langchain-community
+docarray
+tiktoken
+langchain-chroma
+langchainhub
+beautifulsoup4
